@@ -1,0 +1,29 @@
+{
+    "ObelixAgent": {
+        "checkpoints": [
+            {
+                "steps": 364863,
+                "file_path": "results\\obelix_run2\\ObelixAgent\\ObelixAgent-364863.onnx",
+                "reward": null,
+                "creation_time": 1774921472.6190023,
+                "auxillary_file_paths": [
+                    "results\\obelix_run2\\ObelixAgent\\ObelixAgent-364863.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 364863,
+            "file_path": "results\\obelix_run2\\ObelixAgent.onnx",
+            "reward": null,
+            "creation_time": 1774921472.6190023,
+            "auxillary_file_paths": [
+                "results\\obelix_run2\\ObelixAgent\\ObelixAgent-364863.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cpu"
+    }
+}

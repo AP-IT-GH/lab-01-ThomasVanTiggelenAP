@@ -7,6 +7,9 @@ TagManager:
   - Goal
   - GreenZone
   - Target
+  - Menhir
+  - marker
+  - Destination
   layers:
   - Default
   - TransparentFX

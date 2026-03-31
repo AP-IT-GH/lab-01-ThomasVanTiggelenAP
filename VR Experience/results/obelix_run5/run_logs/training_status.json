@@ -1,0 +1,47 @@
+{
+    "ObelixAgent": {
+        "checkpoints": [
+            {
+                "steps": 499987,
+                "file_path": "results\\obelix_run5\\ObelixAgent\\ObelixAgent-499987.onnx",
+                "reward": 4.526222095203896,
+                "creation_time": 1774924553.3893094,
+                "auxillary_file_paths": [
+                    "results\\obelix_run5\\ObelixAgent\\ObelixAgent-499987.pt"
+                ]
+            },
+            {
+                "steps": 999965,
+                "file_path": "results\\obelix_run5\\ObelixAgent\\ObelixAgent-999965.onnx",
+                "reward": 3.372062047943473,
+                "creation_time": 1774925932.4498353,
+                "auxillary_file_paths": [
+                    "results\\obelix_run5\\ObelixAgent\\ObelixAgent-999965.pt"
+                ]
+            },
+            {
+                "steps": 1000029,
+                "file_path": "results\\obelix_run5\\ObelixAgent\\ObelixAgent-1000029.onnx",
+                "reward": 3.372062047943473,
+                "creation_time": 1774925932.51803,
+                "auxillary_file_paths": [
+                    "results\\obelix_run5\\ObelixAgent\\ObelixAgent-1000029.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000029,
+            "file_path": "results\\obelix_run5\\ObelixAgent.onnx",
+            "reward": 3.372062047943473,
+            "creation_time": 1774925932.51803,
+            "auxillary_file_paths": [
+                "results\\obelix_run5\\ObelixAgent\\ObelixAgent-1000029.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cpu"
+    }
+}
