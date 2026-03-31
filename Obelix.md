@@ -22,7 +22,7 @@ De training werd uitgevoerd over 1.000.000 stappen. De resultaten werden gevisua
 
 Grafieken
 
-
+<img width="1201" height="776" alt="Screenshot 2026-03-31 050539" src="https://github.com/user-attachments/assets/cba75806-fe47-44d4-aff7-b73fdb348faf" />
 
 Resultaten
 
