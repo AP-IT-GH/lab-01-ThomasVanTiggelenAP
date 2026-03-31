@@ -22,6 +22,8 @@ De training werd uitgevoerd over 1.000.000 stappen. De resultaten werden gevisua
 
 Grafieken
 
+
+
 Resultaten
 
 De cumulatieve beloning steeg tijdens de training tot een piek van ongeveer +6 à +7 rond 800.000 stappen. 
